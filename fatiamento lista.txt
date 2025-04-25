@@ -1,0 +1,2 @@
+Índices negativos: -1 se refere ao último elemento, -2 ao penúltimo e assim por diante.
+Fatiamento: lista[start:stop:step] cria uma fatia da lista.
